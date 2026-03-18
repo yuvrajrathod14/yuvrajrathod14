@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuvraj Rathod
 
-<!--
-**yuvrajrathod14/yuvrajrathod14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Startup Founder | Flutter Developer | 3D Artist & Game Developer**
 
-Here are some ideas to get you started:
+I’m a passionate developer who loves building real-world solutions using technology.
+Currently working on **BoxCrick**, a sports turf booking application aimed at solving local booking problems in India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do
+
+* 📱 Build mobile apps using **Flutter + Supabase**
+* 🌐 Develop web apps using **TypeScript, Django, Laravel**
+* 🎮 Create immersive experiences with **Unreal Engine & Blender**
+* 🎬 Video editing & content creation (Jaimin Films)
+
+---
+
+## 🚀 Current Focus
+
+* 🔥 Building **BoxCrick (Startup Project)**
+* 🤖 Exploring **AI-powered automation systems**
+* 🌍 Creating scalable real-world products
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** Python, Dart, JavaScript, PHP
+* **Frameworks:** Flutter, Django, Laravel
+* **Tools:** Supabase, Firebase, Git, Blender, Unreal Engine
+* **Other:** UI/UX Design, Video Editing, 3D Animation
+
+---
+
+## 🎯 Goals
+
+* 🚀 Launch my own startup
+* 💡 Build impactful AI-based applications
+* 🌍 Solve real-world problems through tech
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: https://yuvrajrathod.netlify.app/
+* 📧 Email: (your email here)
+
+---
+
+⭐ *“I don't just build projects, I build solutions.”*
