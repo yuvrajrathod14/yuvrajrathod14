@@ -1,51 +1,23 @@
-# 👋 Hi, I'm Yuvraj Rathod
+# 👋 Hi, I'm Yuvraj Rathod<br><br>🚀 **Aspiring Startup Founder | Flutter Developer | 3D Artist & Game Developer**<br><br>I’m a passionate developer who loves building real-world solutions using technology.<br>Currently working on **BoxCrick**, a sports turf booking application aimed at solving local booking problems in India.<br><br>---<br><br>## 💡 What I Do<br><br>* 📱 Build mobile apps using **Flutter + Supabase**<br>* 🌐 Develop web apps using **TypeScript, Django, Laravel**<br>* 🎮 Create immersive experiences with **Unreal Engine & Blender**<br>* 🎬 Video editing & content creation (Jaimin Films)<br><br>---<br><br>## 🚀 Current Focus<br><br>* 🔥 Building **BoxCrick (Startup Project)**<br>* 🤖 Exploring **AI-powered automation systems**<br>* 🌍 Creating scalable real-world products<br><br>---<br><br>## 🛠 Tech Stack<br><br>* **Languages:** Python, Dart, JavaScript, PHP<br>* **Frameworks:** Flutter, Django, Laravel<br>* **Tools:** Supabase, Firebase, Git, Blender, Unreal Engine<br>* **Other:** UI/UX Design, Video Editing, 3D Animation<br><br>---<br><br>## 🎯 Goals<br><br>* 🚀 Launch my own startup<br>* 💡 Build impactful AI-based applications<br>* 🌍 Solve real-world problems through tech<br><br>---<br><br>## 📫 Connect With Me<br><br>* 🌐 Portfolio: https://yuvrajrathod.netlify.app/<br>* 📧 Email: (your email here)<br><br>---<br><br>⭐ *“I don't just build projects, I build solutions.”*<br>
 
-🚀 **Aspiring Startup Founder | Flutter Developer | 3D Artist & Game Developer**
 
-I’m a passionate developer who loves building real-world solutions using technology.
-Currently working on **BoxCrick**, a sports turf booking application aimed at solving local booking problems in India.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yuvraj_141104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-rathod-b130b6376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvraj141104@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yuvrajrathod14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yuvrajrathod14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrathod14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💡 What I Do
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yuvrajrathod14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-* 📱 Build mobile apps using **Flutter + Supabase**
-* 🌐 Develop web apps using **TypeScript, Django, Laravel**
-* 🎮 Create immersive experiences with **Unreal Engine & Blender**
-* 🎬 Video editing & content creation (Jaimin Films)
-
----
-
-## 🚀 Current Focus
-
-* 🔥 Building **BoxCrick (Startup Project)**
-* 🤖 Exploring **AI-powered automation systems**
-* 🌍 Creating scalable real-world products
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yuvrajrathod14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-* **Languages:** Python, Dart, JavaScript, PHP
-* **Frameworks:** Flutter, Django, Laravel
-* **Tools:** Supabase, Firebase, Git, Blender, Unreal Engine
-* **Other:** UI/UX Design, Video Editing, 3D Animation
-
----
-
-## 🎯 Goals
-
-* 🚀 Launch my own startup
-* 💡 Build impactful AI-based applications
-* 🌍 Solve real-world problems through tech
-
----
-
-## 📫 Connect With Me
-
-* 🌐 Portfolio: https://yuvrajrathod.netlify.app/
-* 📧 Email: (your email here)
-
----
-
-⭐ *“I don't just build projects, I build solutions.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
